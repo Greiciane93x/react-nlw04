@@ -4,7 +4,9 @@
 
 Projeto feito em typescript e utilizando as bibliotecas js-cookie, next, react e react-dom  
 
-É trabalhado o conceito de context API, onde os dados são passados de cima para baixo (de pai para filho) via props. Fornece a forma de compartilhar dados como esses, entre todos componentes da mesma árvore de componentes, sem precisar passar explicitamente props entre cada nível.
+É trabalhado o conceito de context API, onde os dados são passados de cima para baixo (de pai para filho) via props. <br/> 
+Fornece a forma de compartilhar dados como esses, entre todos componentes da mesma árvore de componentes, sem precisar <br/> 
+passar explicitamente props entre cada nível.
 
 Os _Cookies_ são utilizados com a missão de resgatar os levels após a conclusão de cada tarefa. <br/> 
 Eles são uma ótima maneira de salvar dados (trechos de texto) no lado do cliente passando uma data para sua expiração, <br/> 
